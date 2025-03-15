@@ -44,3 +44,10 @@ nav ul li{
     transition: all .4s ease;
     font-weight: 500;
 }
+
+h1{
+    text-align: center;
+   color: #182aca;
+}
+
+
